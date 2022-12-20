@@ -1,2 +1,1 @@
-# shared-knowledge-aws
-Shared knowledge about AWS
+# Shared knowledge about AWS
